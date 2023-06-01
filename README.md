@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @vamsikrishnamvk
-- 👀 I’m interested in System/Security/Administration
+- 👀 I’m interested in Security Engineering
 - 🌱 I’m currently learning Cloud-DevSecOps principles and also pursuing my Masters in Information Systems (Cybersecurity)
 - 👐 Open to opportunities in roles Security Engineer, CloudDevOps, DevSecOps
-- 📫 How to reach me +1 470.838.9410 (vamsi.muthe@gmail.com)
+- 📫 How to reach me vamsi.muthe@gmail.com
+- 
