@@ -1,0 +1,7 @@
+Naming rules
+
+- can start with a char or underscore char
+- First letter can be capital too
+- Unicode letters are ok
+- Punctuation char are not possible
+- keywords cannot be used as names

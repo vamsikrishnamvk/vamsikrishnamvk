@@ -1,0 +1,5 @@
+var speed int
+
+int is a static type of the variable
+Go has every variable and value has a type
+
