@@ -1,0 +1,30 @@
+Common abbreviations used in Go
+
+Naming is very important for readability and maintainability
+
+Use the complete words in larger scopes for example variable names in a package
+
+Use mixedCaps style
+
+example type PlayerScore struct
+
+Use capitals for acronymns
+
+var localAPI string
+
+Do not stutter
+
+Do not use undersc
+
+
+var s string // string
+var i int   // index
+var num int // number
+var msg string // message
+var v string // value
+var val string // value
+var fv string // flag value
+var err error // error value
+var args []string // arguments
+var seen bool // has seen?
+var parsed bool // parsing ok?
