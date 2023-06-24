@@ -1,0 +1,1 @@
+When main.go is executed input the long URL that you want to shorten and then it returns the short URL
