@@ -8,7 +8,7 @@ import (
 func main() {
     username := os.Args[1]
     password := os.Args[2]
-    fmt.Println(len(os.Args))
+    // fmt.Println(len(os.Args)) // check number of arguments
     if len(os.Args)==3 {
         if username == "abc" && password == "123" {
             fmt.Println("Username and password are correct")
@@ -21,3 +21,6 @@ func main() {
         fmt.Println("Usage: go run main.go <username> <password>")
     }
 }
+
+// $ go run main.go abc 123
+// Username and password are correct
